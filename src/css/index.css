@@ -1,0 +1,51 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #eae5e5;
+}
+
+.nav-link{
+    color: #382525;
+}
+
+.navbar-brand{
+    color: #4d4d4d;
+}
+
+.navbar{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    font-weight: 700;
+    background-color: #c197ae;
+}
+
+.navbar-brand, .nav-link{
+    font-size: 2em;
+}
+
+.home_banner{
+    background-color: white;
+    border-radius: 1rem;
+}
+
+.personal_text h6{
+    color: #515151;
+}
+
+.personal_text h3{
+    font-size: 3em;
+    font-weight: 700;
+}
+
+.personal_text h4{
+    font-weight: 600;
+    font-size: 1em;
+}
+
+.small_logo{
+    width: 1.5rem;
+    height: 1.5rem;
+}
+
+.basic_info p{
+    font-size: 1.25em;
+}
