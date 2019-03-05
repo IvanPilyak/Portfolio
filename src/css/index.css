@@ -74,3 +74,13 @@ body{
       -webkit-text-fill-color: #e5c5d5;
       font-weight: 700;
   }
+
+  .sl__img{
+      width: 10rem;
+      height: 10rem;
+  }
+
+  .progress-bar {
+    -webkit-transition: none !important;
+    transition: none !important;
+}
